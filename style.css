@@ -1,0 +1,99 @@
+body{
+    background-color: #000000 ;
+}
+
+p{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+h3{
+    color: #ffc9d2;
+    font-size: 50px;
+    text-align: center;
+
+}
+.titulo{
+    color: #ffc2cc;
+    font-size: 100px;
+    text-align: center;  
+}
+.nogustar{
+    color:#ffe6ea;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+    text-align: center;
+}
+.gustos{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+    text-align: center;
+}
+.mun{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.car{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.uni{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.tal{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.Jisoo{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.Rose{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.Jennie{
+    color: #ffe6ea;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+.Lisa{
+    color: #ffe6ea ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+    
+}
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.marca{
+    color: #ffc0cb ;
+    font-family: 'Playpen Sans', cursive;
+    font-size:40px;
+}
+header{
+    background-image:url(https://down-vn.img.susercontent.com/file/95e3dc23190741032fa98355bb439f5b) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(255, 255, 255, 0.2);
+    
+}
+main{
+    background-image: url("BP.jpeg");
+   
+
+}
+footer{
+    text-align: center;
+}
